@@ -11,7 +11,7 @@ Prism
 changelog:
 relased
 
-astral command system
+prism command system
 .tprandom
 (requires telepearl)
 .nameclient Prism
@@ -128,7 +128,7 @@ local bypasses = {
 local Utilities
 
 if workspace:FindFirstChild("Map") then
-	Utilities = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mastadawn/AstralV2/main/Utilities.lua", true))()
+	Utilities = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston/PrismCracked/main/Utilities.lua", true))()
 end
 
 local function teleport(position)
