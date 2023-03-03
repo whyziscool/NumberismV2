@@ -18,7 +18,7 @@ getgenv().GUI = Instance.new("ScreenGui", game:GetService"CoreGui")
 
 GUI.Enabled = false
 
-local ArrayList = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mastadawn/AstralV2/main/Arraylist.lua", true))()
+local ArrayList = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston/PrismCracked/main/Arraylist.lua", true))()
 
 local Loaded = {}
 local Binds = {}
