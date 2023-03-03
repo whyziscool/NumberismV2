@@ -2,7 +2,7 @@ repeat task.wait() until game:IsLoaded()
 
 local origneck = game.Players.LocalPlayer.Character.Head.Neck.C0
 
-local Bedwars = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mastadawn/AstralV2/main/Bedwars.lua", true))()
+local Bedwars = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheMagicPiston/PrismCracked/main/Bedwars.lua", true))()
 
 getgenv().scriptExample = [==[
 
