@@ -10,7 +10,7 @@ Added uninjecting
 getgenv().HUDColor = Color3.fromRGB(150, 0, 240)
 getgenv().HUDAnimations = true
 getgenv().BlurAnimations = true
-getgenv().SaveDefault = "AstralConfig"
+getgenv().SaveDefault = "PrismConfig"
 getgenv().SaveName = getgenv().SaveDefault .. ".lua"
 getgenv().HUDColor = Color3.fromRGB(13, 105, 172)
 getgenv().ArraylistStrokeTransparency = 0.75
