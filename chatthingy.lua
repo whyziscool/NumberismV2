@@ -9,7 +9,7 @@ game.StarterGui:SetCore(
 Prism
 
 changelog:
-relased
+cracked by piston
 
 prism command system
 .tprandom
